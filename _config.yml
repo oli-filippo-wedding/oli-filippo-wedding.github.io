@@ -11,7 +11,7 @@ owner: Gabriela Evrova # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://oli-filippo-wedding.github.io/" # the base hostname & protocol for your site
 
 google_analytics:
 
