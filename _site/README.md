@@ -1,1 +1,3 @@
-# oli_filippo_wedding_website
+# Wedding website
+
+Code modified from [Menzenski](https://github.com/menzenski/wedding-site).
