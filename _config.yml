@@ -1,0 +1,62 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: "Olivera + Filippo"
+description: |
+    Skopje, Macedonia
+
+    August 31, 2019
+owner: Gabriela Evrova # or company name
+first_published: 2019 # if migrating another site, the year of your first publish
+email:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+google_analytics:
+
+social:
+  #twitter: https://twitter.com/menzenski
+  github: https://github.com/oli-filippo-wedding
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square:
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
